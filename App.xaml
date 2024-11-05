@@ -1,0 +1,33 @@
+﻿<Application x:Class="UserManager.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:UserManager"
+             xmlns:ViewModel="clr-namespace:UserManager.MVVM.ViewModel"
+             
+             xmlns:view="clr-namespace:UserManager.MVVM.View"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="06theme/MenuButtonTheme.xaml"/>
+                <ResourceDictionary Source="06theme/TextboxTheme.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+
+            <DataTemplate DataType="{x:Type ViewModel:HomeViewModel}" >
+                <view:HomeView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type ViewModel:LoginViewModel}" >
+                <view:LoginView/>
+            </DataTemplate>
+
+
+
+
+
+
+
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

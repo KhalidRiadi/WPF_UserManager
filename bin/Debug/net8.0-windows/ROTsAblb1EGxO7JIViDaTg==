@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<User xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>ROTsAblb1EGxO7JIViDaTg==</Name>
+  <Password>dFVQZoeJ1Jw7TIaZxXNqxw==</Password>
+  <UserCounter>1</UserCounter>
+  <UserRank>4.9</UserRank>
+  <UserChangedDate>Dienstag, 5. November 2024</UserChangedDate>
+  <UserChangedTime>21:42:28</UserChangedTime>
+  <Usermanagement>false</Usermanagement>
+  <Hardwaremanagement>false</Hardwaremanagement>
+  <Generalsettings>true</Generalsettings>
+  <Manualmode>false</Manualmode>
+  <EditParameterset>false</EditParameterset>
+  <ChangeSysPassword>false</ChangeSysPassword>
+  <Function>false</Function>
+</User>

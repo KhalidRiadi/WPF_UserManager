@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="MVVM\View\Images\back-image.jpg" />
+    <None Remove="MVVM\View\Images\key-icon.png" />
+    <None Remove="MVVM\View\Images\logo.png" />
+    <None Remove="MVVM\View\Images\user-icon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="00AppController\" />
+    <Folder Include="MVVM\Model\Reporting\" />
+    <Folder Include="03Fonts\" />
+    <Folder Include="04Images\" />
+    <Folder Include="06Theme\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="MVVM\View\Images\back-image.jpg" />
+    <Resource Include="MVVM\View\Images\key-icon.png" />
+    <Resource Include="MVVM\View\Images\logo.png" />
+    <Resource Include="MVVM\View\Images\user-icon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="05Texte\ResourceARFRDE.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IRv8119HrQ0=",
+  "dgSpecHash": "7CKAQlO3ids=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Khaled\\source\\repos\\User\\UserManagerApp\\UserManager.csproj",
+  "projectFilePath": "C:\\Users\\Khaled\\source\\repos\\User\\PublicRepos\\WPF_UserManager\\UserManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Khaled\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Khaled\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

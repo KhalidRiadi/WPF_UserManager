@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Khaled\\source\\repos\\User\\UserManagerApp\\",
+  "WorkspaceRootPath": "C:\\Users\\Khaled\\source\\repos\\User\\PublicRepos\\WPF_UserManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|c:\\users\\khaled\\source\\repos\\user\\usermanagerapp\\mvvm\\model\\user\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|solutionrelative:mvvm\\model\\user\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|c:\\users\\khaled\\source\\repos\\user\\usermanagerapp\\mvvm\\view\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|solutionrelative:mvvm\\view\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|c:\\users\\khaled\\source\\repos\\user\\usermanagerapp\\mvvm\\view\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|solutionrelative:mvvm\\view\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|c:\\users\\khaled\\source\\repos\\user\\usermanagerapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|c:\\users\\khaled\\source\\repos\\user\\usermanagerapp\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|c:\\users\\khaled\\source\\repos\\user\\publicrepos\\wpf_usermanager\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|solutionrelative:mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|c:\\users\\khaled\\source\\repos\\user\\usermanagerapp\\mvvm\\model\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|c:\\users\\khaled\\source\\repos\\user\\publicrepos\\wpf_usermanager\\mvvm\\model\\user\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|solutionrelative:mvvm\\model\\user\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|c:\\users\\khaled\\source\\repos\\user\\publicrepos\\wpf_usermanager\\mvvm\\view\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|solutionrelative:mvvm\\view\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|c:\\users\\khaled\\source\\repos\\user\\publicrepos\\wpf_usermanager\\mvvm\\view\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|solutionrelative:mvvm\\view\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|c:\\users\\khaled\\source\\repos\\user\\publicrepos\\wpf_usermanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|c:\\users\\khaled\\source\\repos\\user\\publicrepos\\wpf_usermanager\\mvvm\\model\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|solutionrelative:mvvm\\model\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|c:\\users\\khaled\\source\\repos\\user\\usermanagerapp\\mvvm\\model\\user\\krypto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|c:\\users\\khaled\\source\\repos\\user\\publicrepos\\wpf_usermanager\\mvvm\\model\\user\\krypto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|solutionrelative:mvvm\\model\\user\\krypto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|c:\\users\\khaled\\source\\repos\\user\\usermanagerapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|c:\\users\\khaled\\source\\repos\\user\\publicrepos\\wpf_usermanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|c:\\users\\khaled\\source\\repos\\user\\usermanagerapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|c:\\users\\khaled\\source\\repos\\user\\publicrepos\\wpf_usermanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9EB3BA26-08F1-47D9-865D-66EBC68B01AC}|UserManager.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -46,81 +46,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LoginView.xaml",
-              "DocumentMoniker": "C:\\Users\\Khaled\\source\\repos\\User\\UserManagerApp\\MVVM\\View\\LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\Khaled\\source\\repos\\User\\PublicRepos\\WPF_UserManager\\MVVM\\View\\LoginView.xaml",
               "RelativeDocumentMoniker": "MVVM\\View\\LoginView.xaml",
-              "ToolTip": "C:\\Users\\Khaled\\source\\repos\\User\\UserManagerApp\\MVVM\\View\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\Khaled\\source\\repos\\User\\PublicRepos\\WPF_UserManager\\MVVM\\View\\LoginView.xaml",
               "RelativeToolTip": "MVVM\\View\\LoginView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-31T17:04:39.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T17:04:39.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\source\\repos\\User\\PublicRepos\\WPF_UserManager\\MVVM\\View\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "MVVM\\View\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\Khaled\\source\\repos\\User\\PublicRepos\\WPF_UserManager\\MVVM\\View\\LoginView.xaml.cs",
+              "RelativeToolTip": "MVVM\\View\\LoginView.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:32:48.646Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LoginView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Khaled\\source\\repos\\User\\UserManagerApp\\MVVM\\View\\LoginView.xaml.cs",
-              "RelativeDocumentMoniker": "MVVM\\View\\LoginView.xaml.cs",
-              "ToolTip": "C:\\Users\\Khaled\\source\\repos\\User\\UserManagerApp\\MVVM\\View\\LoginView.xaml.cs",
-              "RelativeToolTip": "MVVM\\View\\LoginView.xaml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAkwDAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T21:32:48.646Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Usermanager.cs",
-              "DocumentMoniker": "C:\\Users\\Khaled\\source\\repos\\User\\UserManagerApp\\MVVM\\Model\\User\\Usermanager.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\source\\repos\\User\\PublicRepos\\WPF_UserManager\\MVVM\\Model\\User\\Usermanager.cs",
               "RelativeDocumentMoniker": "MVVM\\Model\\User\\Usermanager.cs",
-              "ToolTip": "C:\\Users\\Khaled\\source\\repos\\User\\UserManagerApp\\MVVM\\Model\\User\\Usermanager.cs",
+              "ToolTip": "C:\\Users\\Khaled\\source\\repos\\User\\PublicRepos\\WPF_UserManager\\MVVM\\Model\\User\\Usermanager.cs",
               "RelativeToolTip": "MVVM\\Model\\User\\Usermanager.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAmwFcAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T18:14:16.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Khaled\\source\\repos\\User\\UserManagerApp\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\source\\repos\\User\\PublicRepos\\WPF_UserManager\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Khaled\\source\\repos\\User\\UserManagerApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Khaled\\source\\repos\\User\\PublicRepos\\WPF_UserManager\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T19:25:16.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T19:25:16.223Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Krypto.cs",
-              "DocumentMoniker": "C:\\Users\\Khaled\\source\\repos\\User\\UserManagerApp\\MVVM\\Model\\User\\Krypto.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\source\\repos\\User\\PublicRepos\\WPF_UserManager\\MVVM\\Model\\User\\Krypto.cs",
               "RelativeDocumentMoniker": "MVVM\\Model\\User\\Krypto.cs",
-              "ToolTip": "C:\\Users\\Khaled\\source\\repos\\User\\UserManagerApp\\MVVM\\Model\\User\\Krypto.cs",
+              "ToolTip": "C:\\Users\\Khaled\\source\\repos\\User\\PublicRepos\\WPF_UserManager\\MVVM\\Model\\User\\Krypto.cs",
               "RelativeToolTip": "MVVM\\Model\\User\\Krypto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T19:35:36.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T19:35:36.019Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Khaled\\source\\repos\\User\\UserManagerApp\\MVVM\\ViewModel\\MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\source\\repos\\User\\PublicRepos\\WPF_UserManager\\MVVM\\ViewModel\\MainViewModel.cs",
               "RelativeDocumentMoniker": "MVVM\\ViewModel\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\Khaled\\source\\repos\\User\\UserManagerApp\\MVVM\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Khaled\\source\\repos\\User\\PublicRepos\\WPF_UserManager\\MVVM\\ViewModel\\MainViewModel.cs",
               "RelativeToolTip": "MVVM\\ViewModel\\MainViewModel.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAD4vx4AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAvwBwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T17:54:12.134Z",
               "EditorCaption": ""
@@ -129,34 +125,32 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Khaled\\source\\repos\\User\\UserManagerApp\\MVVM\\Model\\User\\User.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\source\\repos\\User\\PublicRepos\\WPF_UserManager\\MVVM\\Model\\User\\User.cs",
               "RelativeDocumentMoniker": "MVVM\\Model\\User\\User.cs",
-              "ToolTip": "C:\\Users\\Khaled\\source\\repos\\User\\UserManagerApp\\MVVM\\Model\\User\\User.cs",
+              "ToolTip": "C:\\Users\\Khaled\\source\\repos\\User\\PublicRepos\\WPF_UserManager\\MVVM\\Model\\User\\User.cs",
               "RelativeToolTip": "MVVM\\Model\\User\\User.cs",
               "ViewState": "AgIAABwAAAAAAAAAAADwvzAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T19:28:18.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T19:28:18.602Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Khaled\\source\\repos\\User\\UserManagerApp\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\Khaled\\source\\repos\\User\\PublicRepos\\WPF_UserManager\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\Users\\Khaled\\source\\repos\\User\\UserManagerApp\\App.xaml",
+              "ToolTip": "C:\\Users\\Khaled\\source\\repos\\User\\PublicRepos\\WPF_UserManager\\App.xaml",
               "RelativeToolTip": "App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-03T18:05:47.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T18:05:47.676Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Khaled\\source\\repos\\User\\UserManagerApp\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Khaled\\source\\repos\\User\\PublicRepos\\WPF_UserManager\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Khaled\\source\\repos\\User\\UserManagerApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Khaled\\source\\repos\\User\\PublicRepos\\WPF_UserManager\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-31T17:08:50.77Z"

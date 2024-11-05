@@ -36,7 +36,7 @@ namespace UserManager.MVVM.ViewModel
             HomeVm = new HomeViewModel();
             LoginVm = new LoginViewModel();
 
-            CurrentView = HomeVm;
+            CurrentView = LoginVm;
 
             //Benutzerverwaltung bv = new Benutzerverwaltung("", "");
 

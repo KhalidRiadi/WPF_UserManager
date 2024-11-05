@@ -35,7 +35,7 @@ namespace UserManager.MVVM.Model
 
         public bool Login(string user, string pw)
         {
-            _user = XmlGetUser("User.Xml");
+            _user = XmlGetUser(user);
             if (_user == null) {return false; }
             else
             {
